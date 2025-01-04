@@ -14,7 +14,7 @@ short_description: An intelligent learning pathway discovery system
 
 An AI-powered smart learning pathfinder designed to help users discover personalized educational courses tailored to their goals and interests.  
 
-![EduPath Explorer Demo](photo-placeholder.jpg)  
+![EduPath Explorer Demo](photo-placeholder.png)  
 
 [**Live Demo**](https://huggingface.co/spaces/Abs6187/EduPath_Explorer)  
 
